@@ -1,4 +1,4 @@
-# World-of-Warcraft-Demographics
+# ![World-of-Warcraft-Demographics].(https://github.com/mepashka/World-of-Warcraft-Demographics/blob/fdafb50af9f0505e7d66e281e075a8ac7730011d/c82f9a5f88a4fb2dd11b185655e3cb37.webp)
 
 ### Описание данных
 Данные представляют собой результаты опроса игроков World of Warcraft, собранные с помощью Google Forms и распространенные на Reddit, Tumblr, Twitter и сервере Discord гильдии WoW. Датасет содержит информацию о демографических характеристиках игроков и их игровых предпочтениях.
